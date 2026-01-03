@@ -1,0 +1,8 @@
+gradio>=4.0.0
+openai
+python-dotenv
+pytest
+webrtcvad==2.0.10
+setuptools==70.0.0
+transformers>=4.35.0
+anthropic==0.32.0
